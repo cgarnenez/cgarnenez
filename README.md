@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @cgarnenez
-- 👀 I’m interested in cooking, working out and reading.
-- 🌱 I’m currently learning how to code.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can reach me by email or LinkedIn.
+# Yá'át'ééh, I’m Chelsea Garnenez
 
-<!---
-cgarnenez/cgarnenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a back end software developer who is eager to learn about new technologies. 
+
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on JavaScript projects 
+
+## Skills
+- 💻 JS
+
+## Connect with me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cgarnenez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chelseagarnenez//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](cgarnenez@gmail.com)  

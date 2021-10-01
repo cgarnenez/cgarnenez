@@ -3,7 +3,7 @@
 I'm a back end software developer who is eager to learn about new technologies. 
 
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on JavaScript projects 
+- 👯 I’m looking to collaborate on JavaScript projects  
 
 ## Skills
 - 💻 JS

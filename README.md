@@ -2,7 +2,7 @@
 
 I'm a back end software developer who is eager to learn about new technologies. 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, MySQL, and Springboot
 - 👯 I’m looking to collaborate on Java projects 
 
 ## Skills
